@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ClassApiMCPServer": {
+      "type": "streamable-http",
+      "url": "https://c6f0d6372d0a.ngrok-free.app/messages"
+    }
+  }
+}
