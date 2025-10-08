@@ -1,7 +1,3 @@
-# CLAUDE.md
-
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
 ## Project Overview
 
 ClassApiMCPServer is a Model Context Protocol (MCP) server that exposes the Coso ClassCom API as MCP tools and prompts. It runs as an ASP.NET Core web application serving HTTP-based MCP endpoints (Streamable HTTP transport).
